@@ -157,6 +157,8 @@ class TikTokTaskBot:
                 print(f"╚═══════════════════════════════════════════════╝{RESET}")
                 print(f"\n{YELLOW}⚠️  Votre abonnement a atteint sa limite.{RESET}")
                 print(f"{DIM}Total actuel : {total_earned} CashCoins (Limite: {LIMIT_CASHCOINS}){RESET}\n")
+
+                print(f"\n numero telephone Mvola Admin: 0382994693  avec le nom Angelson Manantsoa pour l'abonement 4000 Ar.{RESET}")
                 
                 code_input = input(f"{BOLD}{WHITE}🔑 Entrez le code de déblocage : {RESET}")
                 
